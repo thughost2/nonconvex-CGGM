@@ -1,5 +1,6 @@
 # nonconvex-CGGM
-fast nonconvex algorithm for covariate-adjusted precision matrix estimation/conditional Gaussian graphical model estimation
+Fast nonconvex algorithm for covariate-adjusted precision matrix estimation/conditional Gaussian graphical model estimation
+This repository contains our Matlab implementation of covariate-adjusted precision matrix estimation in the paper [Covariate Adjusted Precision Matrix Estimation via Nonconvex Optimization](http://proceedings.mlr.press/v80/chen18n.html).
 
 Useful parameters:
 - params.T            : Number of total iterations
